@@ -21,12 +21,15 @@
     "ecosystem:cordova",
     "cordova-ios"
   ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=8.0.0"
+  "engines": {
+    "cordovaDependencies": {
+      "<1.0.0": {
+        "cordova": ">=7.1.0",
+        "cordova-android": ">=6.3.0",
+        "cordova-ios": ">=4.5.0"
+      }
     }
-  ],
+  },
   "author": "Lee Crossley, updated by Kim Hansen",
   "license": "Apache-2.0",
   "bugs": {
