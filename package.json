@@ -1,0 +1,36 @@
+{
+  "name": "cordova-plugin-ios-finite-task",
+  "version": "0.0.1",
+  "description": "Cordova/PhoneGap Plugin for running finite duration tasks (will also run for up to 3 minutes after the app is suspended).",
+  "main": "finitetask.js",
+  "cordova": {
+    "id": "cordova-plugin-ios-finite-task",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tawpie/cordova-plugin-ios-finite-task.git"
+  },
+  "keywords": [
+    "cordova",
+    "background",
+    "task",
+    "suspend",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=8.0.0"
+    }
+  ],
+  "author": "Lee Crossley, updated by Kim Hansen",
+  "license": "Apache-2.0",
+  "bugs": {
+    "https://github.com/Tawpie/cordova-plugin-ios-finite-task/issues"
+  },
+  "homepage": "https://github.com/Tawpie/cordova-plugin-ios-finite-task/#readme"
+}
