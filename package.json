@@ -33,7 +33,7 @@
   "author": "Lee Crossley, updated by Kim Hansen",
   "license": "Apache-2.0",
   "bugs": {
-    "https://github.com/Tawpie/cordova-plugin-ios-finite-task/issues"
+    "url": "https://github.com/Tawpie/cordova-plugin-ios-finite-task/issues"
   },
   "homepage": "https://github.com/Tawpie/cordova-plugin-ios-finite-task/#readme"
 }
